@@ -14,7 +14,7 @@ function App() {
   return (
     
     <div>
-       <Router>
+       <Router basename="/myportfoliowebsite">
        <header class="sticky top-0 z-50">
 
      
