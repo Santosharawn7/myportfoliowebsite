@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/myportfoliowebsite/static/css/main.a63dc773.css",
+    "main.js": "/myportfoliowebsite/static/js/main.61af6fa4.js",
+    "static/media/fraction.cjs": "/myportfoliowebsite/static/media/fraction.7992481f3d8339b77604.cjs",
+    "index.html": "/myportfoliowebsite/index.html",
+    "static/media/index.cjs": "/myportfoliowebsite/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.a63dc773.css.map": "/myportfoliowebsite/static/css/main.a63dc773.css.map",
+    "main.61af6fa4.js.map": "/myportfoliowebsite/static/js/main.61af6fa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a63dc773.css",
+    "static/js/main.61af6fa4.js"
+  ]
+}
